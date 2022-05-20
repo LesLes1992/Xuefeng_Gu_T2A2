@@ -1,8 +1,10 @@
 # T2A2-Two-sided Marketplace application
 
-Visit the site: [UberRed (Hosted on Heroku)](https://infinite-atoll-55873.herokuapp.com/)
+![GitHub followers](https://img.shields.io/github/followers/alexleybourne?style=flat&logo=github)
 
-Github:
+Visit the site: [UberRed Marketplace Application](https://infinite-atoll-55873.herokuapp.com/)
+
+Github: [Xuefeng_Gu_T2A2](https://github.com/LesLes1992/Xuefeng_Gu_T2A2)
 
 ## Installation and setup
 
